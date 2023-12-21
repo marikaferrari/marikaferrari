@@ -1,6 +1,6 @@
 # Marika Ferrari - Junior Full-Stack Developer
 
-[Email](mailto:ferrari.marika@gmail.com) | [LinkedIn](LinkedIn) | [GitHub](GitHub) | [Portfolio (Coming Soon)](Portfolio)
+[Email](mailto:ferrari.marika@gmail.com) | [LinkedIn](LinkedIn) | [Portfolio (Coming Soon)](Portfolio)
 
 ☼ Dear Reader,
 
