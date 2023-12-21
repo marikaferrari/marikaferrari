@@ -1,4 +1,11 @@
-<img src='https://media.licdn.com/dms/image/D4E16AQF7guqr21IoGg/profile-displaybackgroundimage-shrink_350_1400/0/1700498365349?e=1708560000&v=beta&t=O045hCS84gfOzylKUpZpkCo4Xx4DYF-E78kvwrjUAmA' alt='background'/>
+<div style="position: relative; width: 100%; height: 0; padding-top: 75.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF3nt67viQ&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF3nt67viQ&#x2F;watch?utm_content=DAF3nt67viQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Blue Animated illustrative roadmap graph</a> by Marika Ferrari
 
 <p>Work in Progress 🚧</p>
 
@@ -10,11 +17,11 @@
 - 💬 Ask me about **API Development | TDD | Growth Mindset**
 
 - ⚡ Fun fact: Despite not being a real-life George Costanza, I find a surprising amount of relatability in his statements and humor from the TV show Seinfeld
-<br>
+  <br>
 
 ![Seinfeld GIF](https://seinfeldmemes.com/wp-content/uploads/2020/02/1BB23E54-429A-4B1F-879F-BF4A197BBF59.gif)
 
-## What am I currently up to? 
+## What am I currently up to?
 
 <h2>Shop-a-Hub</h2>
 
@@ -24,6 +31,7 @@ and backend skills. With deployment imminent, this experience has not only empow
 to continuous learning and a growth mindset. Simultaneously, I am authoring comprehensive documentation for the ongoing
 ecommerce website development project.
 Skills: Agile PM, Next.js, TypeScript, MongoDB Atlas, Prisma, Tailwind CSS, DaisyUI
+
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -43,17 +51,20 @@ Skills: Agile PM, Next.js, TypeScript, MongoDB Atlas, Prisma, Tailwind CSS, Dais
 Since December 4th, our dedicated team of developers has been passionately working on "The Reading Room." This innovative app is designed to cultivate healthy reading habits in children through a delightful and interactive experience.
 
 **Key Features:**
+
 - **Thoughtful Journaling:** Children can share their daily thoughts and insights through an interactive form, making reading a personal and engaging activity.
 
 - **Avatar Room:** A specially crafted space where children can play with customizable avatars, adding an element of fun and personalization to their reading journey.
 
 **Technologies Used:**
+
 - **JavaScript:** The core language driving the app's functionality.
 - **Next.js:** Empowering us to build a fast and scalable web application.
 - **CSS Modules:** Ensuring a modular and maintainable styling approach.
 - **Supabase:** Our chosen database solution, providing a secure and scalable backend.
-  
+
 **My Role:**
+
 - **Project Manager:** Dedicated to overseeing every detail of the project, ensuring smooth progress and effective communication within the team.
 
 - **Front-end Developer:** Conducting extensive research to identify and implement age-appropriate designs for children, enhancing the app's visual appeal.
@@ -71,7 +82,6 @@ Since December 4th, our dedicated team of developers has been passionately worki
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
 </a>
 
-
 ## Technical Skills 💻
 
 - **Main Programming Languages:** HTML, CSS, JavaScript, Python, Typescript
@@ -85,6 +95,7 @@ Since December 4th, our dedicated team of developers has been passionately worki
 ## Coding Experience 🖥️
 
 ### Full Stack Developer @School of Code (Sep 2023 - Dec 2023) — Remote, UK
+
 - Developed full-stack JavaScript applications using a vast range of programming languages, frameworks, libraries, and tools.
 - Collaborated in Agile teams, ideating, designing, and building products.
 - Participated in pair programming, enhancing teamwork, communication, and problem-solving.
@@ -92,12 +103,14 @@ Since December 4th, our dedicated team of developers has been passionately worki
 - Successfully completed two full-stack projects within the structured framework of the course.
 
 ### Part-Time Back-end Developer @Code First Girls (Oct 2023 - Nov 2023) — Remote, UK
+
 - Strengthened proficiency in Python, laying a robust foundation for back-end development.
 - Actively contributed to collaborative Agile teams, fostering an interactive environment that supports effective teamwork and innovation.
 - Demonstrated adept time management skills while concurrently attending School of Code.
 - Successfully presented a culminating project showcasing the team's collective efforts and innovative solutions.
 
 ### Freelance Web Developer @Planet Freelance (Nov 2023 - Present) — Remote, Global
+
 - Contributing to the establishment of a strong and dedicated community of climate freelancers.
 - Collaborating with the team to build and launch the Minimum Viable Product (MVP) within a short time-frame.
 - Emphasizing low-tech, low-carbon solutions in line with the platform’s commitment to sustainability.
@@ -105,6 +118,7 @@ Since December 4th, our dedicated team of developers has been passionately worki
 ## Projects 🚀
 
 ### soc projecthub 
+
 Developed a comprehensive catalog app for mobile devices in four days to address the challenge of finding coding projects outside of our boot-camp. Aiming to create a reliable platform for skill development, this experience enhanced my technical and management skills, showcasing versatility in front-end, back-end, and project management. Played a key role in keeping the team grounded in Agile principles, suggesting daily retrospectives for continuous improvement and team-building activities to ease tension before presentations. Proudly embodying the team motto, ”No one gets left behind,” highlights exceptional teamwork and dedication.
 
 **Skills:** Agile PM, JavaScript, Node.js, Express.js, PostgreSQL, Databases, API Development, Vitest, Playwright, CSS Flexbox.
@@ -118,15 +132,19 @@ Developed a comprehensive catalog app for mobile devices in four days to address
 ## Other Professional Experiences 💼
 
 ### Customer Care Associate @Conduent (Jan 2023 - Sep 2023) — Remote, UK
+
 - Gained a reputation for working well on a team and managed to keep my performance score above a rising 95 percent.
 
 ### Team Member/Baker @Co-operative Food (Oct 2020 - Dec 2022) — London/Liverpool, UK
+
 - Enforced the high standard of the daily bakery range by keeping the bakery equipment in good repair and assisting the HS officer on their inspections.
 
 ### Assistant Archaeologist @Centro Camuno (Oct 2019 - Jun 2020) — Val Camonica, ITA
+
 - Participated in the organization and digitalization of sensitive material, in non-optimal conditions and on tight deadlines.
 
 ### Lab Intern @University of Trento (Oct 2020 - Jun 2022) — Trento, UK
+
 - Processed, managed, and archived digital material in my early job, marking my initial foray into computer science.
 
 ## Education 🎓
@@ -137,8 +155,6 @@ Developed a comprehensive catalog app for mobile devices in four days to address
 ## Interests 🌟
 
 - Archaeology — Art and History — Baking — Coding — Crocheting — Gaming — Reading (Currently reading ”Clean Code” by Robert C. Martin) — Sustainability — Volunteering — Yoga
-
-
 
 <!---
 marikaferrari/marikaferrari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
