@@ -16,6 +16,8 @@
 
 ## What am I currently up to? 
 
+<h2>Shop-a-Hub</h2>
+
 🔭 I’m currently working on **Shop-a-Hub**: I’ve deliberately chosen to develop an e-commerce website to
 elevate my full stack proficiency. Embracing tools like MongoDB Atlas, Prisma, and DaisyUI, I’ve sharpened both frontend
 and backend skills. With deployment imminent, this experience has not only empowered me but underscored my dedication
@@ -34,7 +36,8 @@ Skills: Agile PM, Next.js, TypeScript, MongoDB Atlas, Prisma, Tailwind CSS, Dais
   </a>
 </p>
 
-- 👯 I’m currently collaborating on [The Reading Room - Fostering Joyful Reading Habits for Children 🎉](https://reading-room-app.vercel.app/)
+<h2>The Reading Room</h2>
+👯 I’m currently collaborating on [The Reading Room - Fostering Joyful Reading Habits for Children 🎉](https://reading-room-app.vercel.app/)
   
 **Overview:**
 Since December 4th, our dedicated team of developers has been passionately working on "The Reading Room." This innovative app is designed to cultivate healthy reading habits in children through a delightful and interactive experience.
@@ -60,6 +63,8 @@ Since December 4th, our dedicated team of developers has been passionately worki
 - **Testing Advocate:** Contributing to the team's commitment to quality assurance through thorough testing practices and adherence to GitHub Flow.
 
 "The Reading Room" is not just an app; it's a journey to instill the love of reading in children, making it a joyous and memorable experience.
+
+<h2>Write once, Run anywhere: React Native</h2>
   
 - 🌱 I’m currently learning **React Native - Ask me about my docs!❤️‍🔥**
 - <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
