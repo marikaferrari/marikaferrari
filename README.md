@@ -2,8 +2,8 @@
 
 <p>Work in Progress 🚧</p>
  
-<p align="center"><b align="center">Dear Reader, </b>
-</p>br>
+<p align="center"><b align="center">Dear Reader, </br>
+</p>
 It's a pleasure to introduce myself. I am a highly motivated developer with a genuine passion for untangling messy code and transforming it into elegant and efficient solutions. With a background in Archaeology, my love for history and culture shapes my perspective, aiming to bring a human touch to development. I am ready to join a mission-driven team as a collaborative and creative problem-solver, contributing to a future shaped by innovation and collective effort – let's craft it together! ☀</p>
 </br>
 
