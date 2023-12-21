@@ -23,26 +23,14 @@ to continuous learning and a growth mindset. Simultaneously, I am authoring comp
 ecommerce website development project.
 Skills: Agile PM, Next.js, TypeScript, MongoDB Atlas, Prisma, Tailwind CSS, DaisyUI
 <p align="left">
-  <a href="https://agilemanifesto.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/agile.png" alt="Agile PM" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/cloud/atlas" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Atlas" width="40" height="40"/>
   </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/prisma.png" alt="Prisma" width="40" height="40"/>
-  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/daisy.png" alt="DaisyUI" width="40" height="40"/>
   </a>
 </p>
 
