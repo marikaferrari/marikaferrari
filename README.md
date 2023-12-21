@@ -1,3 +1,5 @@
+<img src='https://media.licdn.com/dms/image/D4E16AQF7guqr21IoGg/profile-displaybackgroundimage-shrink_350_1400/0/1700498365349?e=1708560000&v=beta&t=O045hCS84gfOzylKUpZpkCo4Xx4DYF-E78kvwrjUAmA' alt='background'/>
+
 <p>Work in Progress 🚧</p>
 
 <h3 align="center">☼ Dear Reader, It's a pleasure to introduce myself. I am a highly motivated developer with a genuine passion for untangling messy code and transforming it into elegant and efficient solutions. With a background in Archaeology, my love for history and culture shapes my perspective, aiming to bring a human touch to development. I am ready to join a mission-driven team as a collaborative and creative problem-solver, contributing to a future shaped by innovation and collective effort – let's craft it together!</h3>
