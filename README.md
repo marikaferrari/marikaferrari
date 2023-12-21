@@ -1,5 +1,7 @@
 # Marika Ferrari - Junior Full-Stack Developer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marikaferrari&label=Profile%20views&color=0e75b6&style=flat" alt="marikaferrari" /> </p>
+
 [Email](mailto:ferrari.marika@gmail.com) | [LinkedIn](LinkedIn) | [Portfolio (Coming Soon)](Portfolio)
 
 ☼ Dear Reader,
