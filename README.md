@@ -1,12 +1,13 @@
-# Marika Ferrari - Junior Full-Stack Developer
+<h1 align="center">What a delight to have you here! Hi👋, I'm Marika</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marikaferrari&label=Profile%20views&color=0e75b6&style=flat" alt="marikaferrari" /> </p>
+<h3 align="center">☼ Dear Reader, It's a pleasure to introduce myself. I am a highly motivated developer with a genuine passion for untangling messy code and transforming it into elegant and efficient solutions. With a background in Archaeology, my love for history and culture shapes my perspective, aiming to bring a human touch to development. I am ready to join a mission-driven team as a collaborative and creative problem-solver, contributing to a future shaped by innovation and collective effort – let's craft it together!</h3>
 
-[Email](mailto:ferrari.marika@gmail.com) | [LinkedIn](LinkedIn) | [Portfolio (Coming Soon)](Portfolio)
+- 📫 How to reach me **ferrari.marika@gmail.com**
+- 📝 I regularly write my achievements, insights, thoughts and feelings on Linkedin [https://www.linkedin.com/in/marika-ferrari-021835261/](https://www.linkedin.com/in/marika-ferrari-021835261/)
 
-☼ Dear Reader,
+- 💬 Ask me about **API Development | TDD | Growth Mindset**
 
-It's a pleasure to introduce myself. I am a highly motivated developer with a genuine passion for untangling messy code and transforming it into elegant and efficient solutions. With a background in Archaeology, my love for history and culture shapes my perspective, aiming to bring a human touch to development. I am ready to join a mission-driven team as a collaborative and creative problem-solver, contributing to a future shaped by innovation and collective effort – let's craft it together!
+- ⚡ Fun fact **Despite not being a real-life George Costanza, I find a surprising amount of relatability in his statements and humor from the TV show Seinfeld https://seinfeldmemes.com/wp-content/uploads/2020/02/1BB23E54-429A-4B1F-879F-BF4A197BBF59.gif**
 
 ## Technical Skills 💻
 
