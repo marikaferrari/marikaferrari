@@ -82,8 +82,8 @@ It's a pleasure to introduce myself. I am a highly motivated developer with a ge
 
 ## What am I currently up to?
 
-<h3>The Reading Room</h3>
-👯 I’m currently collaborating on [The Reading Room - Fostering Joyful Reading Habits for Children 🎉](https://reading-room-app.vercel.app/)
+<h3><a href="https://reading-room-app.vercel.app/">🌈 The Reading Room</a></h3>
+I’m currently collaborating on The Reading Room - Fostering Joyful Reading Habits for Children 🎉.
   
 **Overview:**
 Since December 4th, our dedicated team of developers has been passionately working on "The Reading Room." This innovative app is designed to cultivate healthy reading habits in children through a delightful and interactive experience.
