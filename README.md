@@ -1,45 +1,88 @@
-<video>
-  <source src='./Blue Animated illustrative roadmap graph.mp4' type='video/mp4'>
-</video>
+![linkedin bg](https://github.com/marikaferrari/marikaferrari/assets/135352868/48e68f0d-6574-4b88-9171-069dc7ddf1bc)
 
 <p>Work in Progress 🚧</p>
+ 
+<p align="center"><b align="center">Dear Reader, </b>
+</p>br>
+It's a pleasure to introduce myself. I am a highly motivated developer with a genuine passion for untangling messy code and transforming it into elegant and efficient solutions. With a background in Archaeology, my love for history and culture shapes my perspective, aiming to bring a human touch to development. I am ready to join a mission-driven team as a collaborative and creative problem-solver, contributing to a future shaped by innovation and collective effort – let's craft it together! ☀</p>
+</br>
 
-<h3 align="center">☼ Dear Reader, It's a pleasure to introduce myself. I am a highly motivated developer with a genuine passion for untangling messy code and transforming it into elegant and efficient solutions. With a background in Archaeology, my love for history and culture shapes my perspective, aiming to bring a human touch to development. I am ready to join a mission-driven team as a collaborative and creative problem-solver, contributing to a future shaped by innovation and collective effort – let's craft it together!</h3>
+📫 How to reach me **ferrari.marika@gmail.com**
+</br>
+📝 I also regularly write my achievements, insights, thoughts and feelings on [Linkedin](https://www.linkedin.com/in/marika-ferrari-021835261/)
 
-- 📫 How to reach me **ferrari.marika@gmail.com**
-- 📝 I regularly write my achievements, insights, thoughts and feelings on ![Linkedin](https://www.linkedin.com/in/marika-ferrari-021835261/)
-
-- 💬 Ask me about **API Development | TDD | Growth Mindset**
-
-- ⚡ Fun fact: Despite not being a real-life George Costanza, I find a surprising amount of relatability in his statements and humor from the TV show Seinfeld
+<h2>A little more about me</h2>
+💬 Ask me about <b>API Development | TDD | Growth Mindset</b>
+</br>
+</br>
+⚡ Fun fact: Despite not being a real-life George Costanza, I find a surprising amount of relatability in his statements and humor from the TV show Seinfeld. 
   <br>
+  
+  ![costanza](https://github.com/marikaferrari/marikaferrari/assets/135352868/23185099-5809-41d3-84fa-8b966e095cd4)
 
-![Seinfeld GIF](https://seinfeldmemes.com/wp-content/uploads/2020/02/1BB23E54-429A-4B1F-879F-BF4A197BBF59.gif)
+<h2>Behind the Scenes</h2>
+<div align="center">
+<img width="600" alt="dig" src="https://github.com/marikaferrari/marikaferrari/assets/135352868/ee858b5d-1b72-4438-b02f-878729211c1c">
+</div>
+
+## My Toolbox 🧰
+
+- **Main Programming Languages:** HTML, CSS, JavaScript, Python, Typescript
+- **Back-End Development Tools:** Express.js, Node.js, PostgreSQL, AWS, MongoDB Atlas, Prisma, Supabase, Render, Vercel
+- **Front-End Development Tools:** React.js, Next.js, Tailwind CSS, Chakra UI, DaisyUI, CSS Grid, Flexbox, CSS Modules
+- **Design and User Experience:** Figma, UI/UX Design, Wireframing, User Research
+- **Testing and Quality Assurance:** Vitest, Supertest, Playwright, Jest, Test-Driven Development (TDD), Lighthouse
+
+<p align="center"> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+</a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+</a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+</a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+</a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+</a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
+</p>
 
 ## What am I currently up to?
 
-<h2>Shop-a-Hub</h2>
-
-🔭 I’m currently working on **Shop-a-Hub**: I’ve deliberately chosen to develop an e-commerce website to
-elevate my full stack proficiency. Embracing tools like MongoDB Atlas, Prisma, and DaisyUI, I’ve sharpened both frontend
-and backend skills. With deployment imminent, this experience has not only empowered me but underscored my dedication
-to continuous learning and a growth mindset. Simultaneously, I am authoring comprehensive documentation for the ongoing
-ecommerce website development project.
-Skills: Agile PM, Next.js, TypeScript, MongoDB Atlas, Prisma, Tailwind CSS, DaisyUI
-
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/cloud/atlas" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Atlas" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-</p>
-
-<h2>The Reading Room</h2>
+<h3>The Reading Room</h3>
 👯 I’m currently collaborating on [The Reading Room - Fostering Joyful Reading Habits for Children 🎉](https://reading-room-app.vercel.app/)
   
 **Overview:**
@@ -68,24 +111,32 @@ Since December 4th, our dedicated team of developers has been passionately worki
 
 - **Testing Advocate:** Contributing to the team's commitment to quality assurance through thorough testing practices and adherence to GitHub Flow.
 
-"The Reading Room" is not just an app; it's a journey to instill the love of reading in children, making it a joyous and memorable experience.
+<h3>Shop-a-Hub</h3>
 
-<h2>Write once, Run anywhere: React Native</h2>
-  
-- 🌱 I’m currently learning **React Native - Ask me about my docs!❤️‍🔥**
-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+🔭 I’m currently working on **Shop-a-Hub**: I’ve deliberately chosen to develop an e-commerce website to
+elevate my full stack proficiency. Embracing tools like MongoDB Atlas, Prisma, and DaisyUI, I’ve sharpened both frontend
+and backend skills. With deployment imminent, this experience has not only empowered me but underscored my dedication
+to continuous learning and a growth mindset. Simultaneously, I am authoring comprehensive documentation for the ongoing
+ecommerce website development project.
+Skills: Agile PM, Next.js, TypeScript, MongoDB Atlas, Prisma, Tailwind CSS, DaisyUI
+
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/cloud/atlas" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Atlas" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+</p>
+
+<h3>"Write once, Run anywhere": React Native</h3> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
 </a>
-
-## Technical Skills 💻
-
-- **Main Programming Languages:** HTML, CSS, JavaScript, Python, Typescript
-- **Back-End Development Tools:** Express.js, Node.js, PostgreSQL, AWS, MongoDB Atlas, Prisma, Supabase, Render, Vercel
-- **Front-End Development Tools:** React.js, Next.js, Tailwind CSS, Chakra UI, DaisyUI, CSS Grid, Flexbox, CSS Modules
-- **Design and User Experience:** Figma, UI/UX Design, Wireframing, User Research
-- **Testing and Quality Assurance:** Vitest, Supertest, Playwright, Jest, Test-Driven Development (TDD), Lighthouse
-
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I’m currently learning **React Native - Ask me about my docs!❤️‍🔥**
 
 ## Coding Experience 🖥️
 
