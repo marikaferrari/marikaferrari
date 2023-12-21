@@ -1,7 +1,3 @@
-<h1 align="center">What a delight to have you here!
-  <br>
-  Hi👋, I'm Marika</h1>
-
 <p>Work in Progress 🚧</p>
 
 <h3 align="center">☼ Dear Reader, It's a pleasure to introduce myself. I am a highly motivated developer with a genuine passion for untangling messy code and transforming it into elegant and efficient solutions. With a background in Archaeology, my love for history and culture shapes my perspective, aiming to bring a human touch to development. I am ready to join a mission-driven team as a collaborative and creative problem-solver, contributing to a future shaped by innovation and collective effort – let's craft it together!</h3>
