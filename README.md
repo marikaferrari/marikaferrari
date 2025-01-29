@@ -112,7 +112,7 @@ It's a pleasure to introduce myself. I am a highly motivated developer with a ge
 </p>
 
 
-## Projects
+## Projects 🚀
 
 <h3><a href="https://shop-your-recipes.vercel.app/recipes">🛒 Shop Your Recipes</a></h3>
 
@@ -236,9 +236,10 @@ During my time at School of Code, I had the pleasure to collaborate on **The Rea
 
 - **Testing Advocate:** Contributing to the team's commitment to quality assurance through thorough testing practices and adherence to GitHub Flow.
 
-**What am I currently up to? 🤔** 
+<h2>What am I currently up to? 🤔</h2> 
 
-<h3>"Write once, Run anywhere": React Native</h3> 
+<p>"Write once, Run anywhere": React Native<p> 
+ <br>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
 </a>
