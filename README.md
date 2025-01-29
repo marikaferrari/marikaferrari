@@ -23,7 +23,7 @@ It's a pleasure to introduce myself. I am a highly motivated developer with a ge
   
 ![costanza](https://i.chzbgr.com/full/9484986368/hFD53B5A8/gif-george-costanza-and-jerry-sienfeld-sitting-in-cafe-george-is-getting-upset)
 <br>
-⬆️ Me when code it pushed to dev without checks!
+⬆️ Me when code is pushed to dev without checks!
 
 <h2>Behind the Scenes</h2>
 <div align="center">
