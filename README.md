@@ -17,7 +17,6 @@ It's a pleasure to introduce myself. I am a highly motivated developer with a ge
 - Advocating for **testing, documentation, and clean code**
 - ASOIAF 😉
 </br>
-</br>
 ⚡ Fun fact: Sure, I may not be a real-life George Costanza, but I find a surprising amount of relatability in his statements and humour from the TV show Seinfeld. 
   <br>
   <br>
